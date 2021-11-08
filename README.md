@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning C
 - 📫 How to reach me: ...
 - ⚡ Interests: running, coding, listening to audiobooks and fashion styling!
--->
